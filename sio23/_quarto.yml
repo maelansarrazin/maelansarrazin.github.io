@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio - BTS SIO"
+  navbar:
+    title: Portfolio - BTS SIO
+    left:
+    - text: Accueil
+      href: index.qmd
+    - text: Symfony
+      href: tableau.html
+    - text: Curriculum Vitae
+      href: https://m0onshadow.github.io
+    - text: Veilles...
+      menu:
+      - text: ... technologiques
+        href: N/A
+      - text: ... juridiques
+        href: N/A
+    
+format:
+  html:
+    theme:
+      light:
+        [cosmo]
+      dark:
+        [cosmo, dark.css]
+    css: styles.css
+    toc: true
+
+editor: visual
+

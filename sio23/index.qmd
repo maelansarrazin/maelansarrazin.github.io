@@ -1,0 +1,18 @@
+# Bienvenue !
+
+Ce site a été conçu entièrement avec le langage __R__. En effet, c'est une des technologies que j'affectionne particulièrement.
+
+## A propos
+
+Je m'appelle Maelan Sarrazin, j'ai 21 ans et je suis technicien support informatique.
+Je suis passionné par beaucoup de choses : les langues, la programmation applicative ainsi que... les trains ! 🚅  
+
+En effet, je prévois l'année prochaine de continuer dans la conduite de trains, en intégrant l'UNFT (Université Nationale de Formation Traction).  
+
+Pour l'instant, je suis élève en BTS SIO, au CFP des Charmilles (Saint-Martin-d'Hères).
+
+![](cfp.jpg){width="120%"}  
+
+Durant mes deux années au CFP, j'ai pu découvrir ce qu'était le coeur même du métier de Support Informatique grâce à mon alternance au sein de la société [Experis France](https://experisfrance.fr/), filiale de ManpowerGroup.  
+
+Vous pouvez télécharger le tableau de compétences >> [ici](tableau.xlsx) <<.
