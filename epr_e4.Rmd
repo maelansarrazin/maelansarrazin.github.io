@@ -2,7 +2,7 @@
 title: "Maelan Sarrazin - Portfolio"
 links:
   - label: Accueil
-    url: ""
+    url: "https://maelansarrazin.github.io"
   - label: Blog
     url: "https://maelansecu.github.io"
   - label: Twitter

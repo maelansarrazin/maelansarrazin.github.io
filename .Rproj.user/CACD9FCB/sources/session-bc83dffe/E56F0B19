@@ -3,7 +3,7 @@
     "path": "C:/Users/heich/OneDrive/Bureau/Postcards/epr_e4.Rmd",
     "project_path": "epr_e4.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2992306137",
     "contents": "",
     "dirty": false,
     "created": 1682067326419.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,36",
+        "cursorPosition": "4,18",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1682067730,
+    "lastKnownWriteTime": 1682071872,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1682067730519,
+    "last_content_update": 1682071872902,
     "read_only": false,
     "read_only_alternatives": []
 }
