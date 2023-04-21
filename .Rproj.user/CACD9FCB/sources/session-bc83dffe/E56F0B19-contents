@@ -1,0 +1,18 @@
+---
+title: "Maelan Sarrazin - Portfolio"
+links:
+  - label: Accueil
+    url: ""
+  - label: Blog
+    url: "https://maelansecu.github.io"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Mail
+    url: mailto:maelan.sarrazin@gmail.com
+output:
+  postcards::solana
+---
+
+Vous pouvez télécharger le tableau de compétences ici :
+
+[Tableau de compétences](tableau.xlsx)

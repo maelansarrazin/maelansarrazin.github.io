@@ -1,0 +1,44 @@
+---
+title: "Maelan Sarrazin"
+image: "maelan.jpg"
+links:
+  - label: Epreuve E4
+    url: "https://rpubs.com/mael_secu/"
+  - label: Blog
+    url: "https://maelansecu.github.io"
+  - label: Twitter
+    url: "https://twitter.com/M0on_secu"
+  - label: Mail
+    url: mailto:maelan.sarrazin@gmail.com
+output:
+  postcards::solana
+---
+
+## Bonjour !
+
+Je m'appelle Maelan Sarrazin, j'ai 21 ans et je suis technicien support informatique. Je suis passionné par beaucoup de choses : les langues, la programmation applicative ainsi que... les trains ! 🚅 <br> En effet, je prévois l'année prochaine de continuer dans la conduite de trains, en intégrant l'UNFT (Université Nationale de Formation Traction).\
+<br>
+
+## Education
+
+**BTS SIO** \| Saint-Martin-d'Hères, FR
+
+```         
+  Option Solutions Logicielles | Sept. 2021 - Juin 2023
+```
+
+**Bac. STI2D** \| Saint-Quentin, FR
+
+```         
+  Option Systèmes Numériques |  Sept. 2018 - Juin 2020
+```
+
+<br>
+
+## Expérience
+
+**Alternance** \| Technicien support informatique \| Juin 2021 - Maintenant
+
+**Service civique** \| Assistant de vie \| Sept. 2020 - Mai 2021
+
+------------------------------------------------------------------------
