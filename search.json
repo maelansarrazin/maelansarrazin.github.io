@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio - BTS SIO",
+    "section": "",
+    "text": "Ce site a été conçu entièrement avec le langage R. En effet, c’est une des technologies que j’affectionne particulièrement.\n\n\nJe m’appelle Maelan Sarrazin, j’ai 21 ans et je suis technicien support informatique. Je suis passionné par beaucoup de choses : les langues, la programmation applicative ainsi que… les trains ! 🚅\nEn effet, je prévois l’année prochaine de continuer dans la conduite de trains, en intégrant l’UNFT (Université Nationale de Formation Traction).\nPour l’instant, je suis élève en BTS SIO, au CFP des Charmilles (Saint-Martin-d’Hères).\nDurant mes deux années au CFP, j’ai pu découvrir ce qu’était le coeur même du métier de Support Informatique grâce à mon alternance au sein de la société Experis France, filiale de ManpowerGroup."
+  },
+  {
+    "objectID": "pro/curriculum.html",
+    "href": "pro/curriculum.html",
+    "title": "Portfolio - BTS SIO",
+    "section": "",
+    "text": "Voici un résumé de mon parcours professionnel.\n\n\nBTS SIO | Saint-Martin-d’Hères, FR\n  Option Solutions Logicielles | Sept. 2021 - Juin 2023\nBac. STI2D | Saint-Quentin, FR\n  Option Systèmes Numériques |  Sept. 2018 - Juin 2020\n\n\n\nAlternance | Technicien support informatique | Juin 2021 - Maintenant\nService civique | Assistant de vie | Sept. 2020 - Mai 2021\nMon curriculum vitae est disponible au téléchargement ici : cv_maelan_sarrazin.pdf"
+  },
+  {
+    "objectID": "pro/tableau.html",
+    "href": "pro/tableau.html",
+    "title": "Portfolio - BTS SIO",
+    "section": "",
+    "text": "Voici un résumé des compétences acquises pendant mes deux années de BTS :\n\n\n\nAssistance aux utilisateurs\nParcours de formation interne\nSuivi de procédures via la Knowledge Base\nDécouverte des procédures pour différents pôles (E-Commerce, Retail)\nGestion du backlog\nPrise en charge d’appels\nDéploiement à distance d’applications\n\n\n\n\n\nMise en place et configuration d’un service GLPI\nMise en place d’un pare-feu pfSense\nPrésentation de l’entreprise et veille stratégique\nVeille technologique\nMise en place d’un système de sauvegarde\nMise en place d’un projet sous format Agile\nRéalisation d’un portfolio\nRéalisation site web via Symfony"
+  },
+  {
+    "objectID": "sio/slam.html",
+    "href": "sio/slam.html",
+    "title": "Portfolio - BTS SIO",
+    "section": "",
+    "text": "Le BTS SIO est un diplôme national en informatique de niveau bac+2. Il peut être préparé gratuitement en deux ans dans quelque 130 lycées publics ou privés sous contrat présents sur tout le territoire français. Il est aussi proposé par des établissements privés sous contrat d’association avec l’état ou non. A l’issue de cette formation on peut intervenir en entreprise en tant que développeur d’applications informatiques ou administrateur de réseaux locaux.\n\n\n\n\n\n\nL’élève participera à la conception, au développement, ainsi qu’au déploiement et à la maintenance des composants logiciels d’une solution applicative. Il acquiert ainsi des compétences en conception et développement d’une solution applicative, en maintenance de celle-ci, mais aussi en bases de données et en gestion des données numériques.\n\n\n\nCe BTS est ouvert à tous les élèves titulaires d’un baccalauréat : général, technologique, professionnel, etc. L’accès se fait sur dossier, avec entretien et/ou tests."
+  },
+  {
+    "objectID": "sio/sisr.html",
+    "href": "sio/sisr.html",
+    "title": "Portfolio - BTS SIO",
+    "section": "",
+    "text": "Le BTS SIO est un diplôme national en informatique de niveau bac+2. Il peut être préparé gratuitement en deux ans dans quelque 130 lycées publics ou privés sous contrat présents sur tout le territoire français. Il est aussi proposé par des établissements privés sous contrat d’association avec l’état ou non. A l’issue de cette formation on peut intervenir en entreprise en tant que développeur d’applications informatiques ou administrateur de réseaux locaux.\n\n\n\n\n\n\nL’étudiant participera à l’administration des systèmes et du réseau, il sera capable de modifier ou d’adapter les solutions d’infrastructure ainsi que la qualité de service des équipements du réseaux. Il acquiert ainsi les compétences pour concevoir une solution d’infrastructure réseau, l’installer, la tester et la déployer. Il apprend aussi à administrer et superviser ce réseau.\n\n\n\nCe BTS est ouvert à tous les élèves titulaires d’un baccalauréat : général, technologique, professionnel, etc. L’accès se fait sur dossier, avec entretien et/ou tests."
+  }
+]
